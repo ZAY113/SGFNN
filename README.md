@@ -6,6 +6,6 @@ GraphTFInt_Loc is the SGFNN model.
 
 Running Environment：
 
-*python version >= 3.8.15
-*torch version >= 1.13.0
-*dgl version >= 0.9.1
+* python version >= 3.8.15
+* torch version >= 1.13.0
+* dgl version >= 0.9.1
